@@ -12,7 +12,8 @@ L-Layer - (L-1) hidden layer(RELU) -> output layer(Sigomod)
         - Can change number of layers and unit of each layers by chainging layer_dims
         
         
-![Uploading LlayerNN_kiank.png…]()
+<img width="659" alt="LlayerNN_kiank" src="https://user-images.githubusercontent.com/48948578/83353111-34cf3d80-a38b-11ea-8d60-74aba6d93379.png">
+
 
 
 * DeepLearningAi review
