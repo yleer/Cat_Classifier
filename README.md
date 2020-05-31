@@ -1,5 +1,4 @@
-# Cat_Classifier
-2-Layer, L-layer(from DeepLearningAi)
+# Cat_Classifier(2-Layer, L-layer)
 
 
 2-Layer - one hidden layer(RELU) -> output layer(Sigmoid)
